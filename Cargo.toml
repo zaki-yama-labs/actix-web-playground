@@ -12,3 +12,7 @@ actix-session = "0.4.0"
 [[bin]]
 name = "user-sessions"
 path = "src/user-sessions.rs"
+
+[[bin]]
+name = "shared-mutable-state"
+path = "src/shared-mutable-state.rs"
